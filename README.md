@@ -1,5 +1,6 @@
 # Knowledge Base for MCCS Capstone Class
-# Deno
+
+# Demo video
 [![Demo](https://i.ytimg.com/vi/-CPXr4hXPe4/hqdefault.jpg)](https://www.youtube.com/embed/-CPXr4hXPe4?si=yv-_wTqSqee6tJgZ) </br>
 
 ## Members 
