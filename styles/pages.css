@@ -1,0 +1,43 @@
+.display-3 {
+  border-bottom: solid 2px #9b8946;
+}
+
+body {
+  color: white;
+}
+
+#widget {
+  background-color: #2e2e2e;
+}
+
+#screen {
+  width: 80%;
+}
+
+#store {
+  height: 250px;
+  background-color: #2e2e2e;
+}
+
+#store .card-text {
+  height: 25%;
+}
+
+a.store-btn {
+  margin: 10px; /* Adjust the margin as needed */
+  color: white;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 20px;
+  border-radius: 1rem;
+  background-color: transparent;
+  border: #87192A solid 2px;
+  width: 30%;
+}
+
+a.store-btn:hover {
+  color: white;
+  box-shadow: 10px 5px 5px black;
+  background-color: #87192A;
+}
